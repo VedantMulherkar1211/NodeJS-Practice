@@ -1,0 +1,11 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "it is a basic server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Vedant",
+  "license": "ISC"
+}
